@@ -38,3 +38,14 @@ footer {
   background-color: darkgray;
   display: block;
 }
+
+.elecs {
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+}
+
+.elecs img {
+  height: 250px;
+  margin: 50px;
+}
